@@ -37,3 +37,5 @@ set nu!
 set nobackup
 set nowritebackup
 set noundofile
+
+set ts=4
