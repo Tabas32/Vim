@@ -36,3 +36,4 @@ colors srcery-drk
 set nu!
 set nobackup
 set nowritebackup
+set noundofile
